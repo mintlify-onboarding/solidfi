@@ -7,13 +7,7 @@
     },
     "servers": [
       {
-        "url": "{{baseUrl}}"
-      },
-      {
-        "url": "{{upload-url}}"
-      },
-      {
-        "url": "{{VGSUrl}}"
+        "url": "https://qa-api.sbx.solidfi.com"
       }
     ],
     "paths": {
